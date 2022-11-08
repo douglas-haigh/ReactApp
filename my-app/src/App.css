@@ -1,0 +1,29 @@
+body { 
+  padding: 0.5em;
+  text-align: center;
+  font-family:'Courier New', Courier, monospace;
+  font-weight: bolder;
+}
+
+h1 { 
+  text-decoration: underline;
+}
+
+.album-cover {
+  width: 250px;
+  height: auto;
+}
+
+.album-heading {
+  text-decoration: underline;
+}
+
+.album {
+  padding: 1%;
+  font-size: larger;
+}
+
+.album div{
+  margin: 1%;
+  
+}
